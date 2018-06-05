@@ -1,0 +1,1 @@
+${blobToString.generate(photo.src)}
